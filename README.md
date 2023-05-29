@@ -1,3 +1,7 @@
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img alt="Coder GIF" height=350 width=650 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
+
 # 💫 About Me:
 👋 Hi, I'm Umakant Savant, a skilled full stack developer with expertise in HTML, CSS, JavaScript, and PHP. I thrive on creating dynamic and user-friendly web applications.<br><br>💼 With a strong foundation in web development, I have successfully completed freelance projects, delivering high-quality solutions on time.<br><br>🎓 Currently in my final year of pursuing a B.Tech in Information Technology, I am eager to contribute my knowledge and skills to innovative web development projects.<br><br>🌟 My passion for staying updated with the latest industry trends drives me to continuously learn and adapt to new technologies.<br><br>🤝 I excel in collaborating with clients and colleagues, ensuring effective communication and understanding of project requirements.<br><br>💡 Dedicated, detail-oriented, and always striving for excellence, I take pride in delivering exceptional web experiences that exceed expectations.<br><br>✉️ Let's connect and explore how we can create impactful web solutions together!
 
